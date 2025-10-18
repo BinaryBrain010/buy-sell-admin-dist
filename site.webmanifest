@@ -1,0 +1,21 @@
+{
+  "name": "BuySell Liberia Admin Dashboard",
+  "short_name": "BSL Admin",
+  "description": "Administration panel for BuySell Liberia marketplace",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/buySellLogo.png",
+      "sizes": "192x192 256x256 384x384 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
